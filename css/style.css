@@ -6,6 +6,7 @@ body {
 
 body {
   background: linear-gradient(to right, #4ca2cd, #45f9a68f);
+  margin: 0 0;
 }
 
 .phone {
@@ -50,7 +51,6 @@ body {
 @media screen and (max-width: 600px) {
   body {
     background: none;
-    margin: 0 0;
   }
 
   #phone_1 {
